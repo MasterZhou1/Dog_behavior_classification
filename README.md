@@ -1,6 +1,6 @@
-# Animal Behavior Classification with Time Series Data
+# Dog Behavior Classification with Time Series Movement Dataset
 
-This repository contains the code and resources for a data science project conducted for CIS 5450: Big Data Analytics at the University of Pennsylvania. The project focuses on classifying sheep behaviors using accelerometer and gyroscope data. This work also contributes to the Kaggle competition: [Animal Behavior Analysis](https://www.kaggle.com/datasets/arashnic/animal-behavior-analysis/data).
+This repository contains the code and resources for a data science project conducted for CIS 5450: Big Data Analytics at the University of Pennsylvania. The project focuses on classifying sheep behaviors using accelerometer and gyroscope data. This work also contributes to the Kaggle competition: [Dog Behavior Analysis Dataset](https://www.kaggle.com/datasets/arashnic/animal-behavior-analysis/data).
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Classifying animal behavior is crucial for welfare monitoring, health management
 
 ## Dataset
 
-The dataset is sourced from the Kaggle competition: [Animal Behavior Analysis](https://www.kaggle.com/datasets/arashnic/animal-behavior-analysis/data). It includes raw accelerometer and gyroscope data collected from sheep engaged in various activities. Detailed information is available in the original research paper: [Classification of Sheep Behaviour Using Machine Learning to Support Welfare](https://www.sciencedirect.com/science/article/pii/S0168159121001805).
+The dataset is sourced from the Kaggle competition: [Dog Behavior Analysis Dataset](https://www.kaggle.com/datasets/arashnic/animal-behavior-analysis/data). It includes raw accelerometer and gyroscope data collected from sheep engaged in various activities. Detailed information is available in the original research paper: [Dog behaviour classification with movement sensors placed on the harness and the collar](https://www.sciencedirect.com/science/article/pii/S0168159121001805).
 
 ## Method
 
@@ -16,5 +16,5 @@ We preprocessed the raw sensor data, performed exploratory data analysis, and im
 
 ## References
 
-- **Dataset**: [Kaggle - Animal Behavior Analysis](https://www.kaggle.com/datasets/arashnic/animal-behavior-analysis/data)
-- **Research Paper**: [Classification of Sheep Behaviour Using Machine Learning to Support Welfare](https://www.sciencedirect.com/science/article/pii/S0168159121001805)
+- **Dataset**: [Kaggle - Dog Behavior Analysis Dataset](https://www.kaggle.com/datasets/arashnic/animal-behavior-analysis/data)
+- **Research Paper**: [Dog behaviour classification with movement sensors placed on the harness and the collar](https://www.sciencedirect.com/science/article/pii/S0168159121001805)
