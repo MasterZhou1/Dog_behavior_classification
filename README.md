@@ -1,7 +1,5 @@
 # Animal Behavior Classification with Time Series Data
 
----
-
 This repository contains the code and resources for a data science project conducted for CIS 5450: Big Data Analytics at the University of Pennsylvania. The project focuses on classifying sheep behaviors using accelerometer and gyroscope data. This work also contributes to the Kaggle competition: [Animal Behavior Analysis](https://www.kaggle.com/datasets/arashnic/animal-behavior-analysis/data).
 
 ## Introduction
